@@ -16,5 +16,9 @@
     {
         return numA / numB;
     }
+        private static Int32 Szorzas(Int32 numA, Int32 numB)
+    {
+        return numA * numB;
+    }
 
 }
