@@ -2,7 +2,7 @@
 {
     private static void Main(string[] args)
     {
-        indit()
+        Indit();
     }
     private static void Indit()
     {
