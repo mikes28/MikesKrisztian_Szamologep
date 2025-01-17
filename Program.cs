@@ -12,5 +12,9 @@
     private static Int32 Kivonas(Int32 numA, Int32 numB)
     {
         return numA - numB;
+    }    private static Int32 Osztas(Int32 numA, Int32 numB)
+    {
+        return numA / numB;
     }
+
 }
