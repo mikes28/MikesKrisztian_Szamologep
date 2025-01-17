@@ -1,0 +1,15 @@
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/bin/Debug/net8.0/MikesKrisztian_Szamologep
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/bin/Debug/net8.0/MikesKrisztian_Szamologep.deps.json
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/bin/Debug/net8.0/MikesKrisztian_Szamologep.runtimeconfig.json
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/bin/Debug/net8.0/MikesKrisztian_Szamologep.dll
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/bin/Debug/net8.0/MikesKrisztian_Szamologep.pdb
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.GeneratedMSBuildEditorConfig.editorconfig
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.AssemblyInfoInputs.cache
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.AssemblyInfo.cs
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.csproj.CoreCompileInputs.cache
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.dll
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/refint/MikesKrisztian_Szamologep.dll
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.pdb
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.genruntimeconfig.cache
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/ref/MikesKrisztian_Szamologep.dll
+/home/mikes/Documents/github/MikesKrisztian_Szamologep/obj/Debug/net8.0/MikesKrisztian_Szamologep.sourcelink.json

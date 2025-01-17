@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1jgU559zCh6X7jpPFSibSordz5ndjaijoeJf+PX+x16NP/OC224Ha4aFuLuZYYEcJ3zmJaLfPXueddd5Hg+9bA==",
+  "success": true,
+  "projectFilePath": "/home/mikes/Documents/github/MikesKrisztian_Szamologep/MikesKrisztian_Szamologep.csproj",
+  "expectedPackageFiles": [
+    "/home/mikes/.nuget/packages/microsoft.aspnetcore.app.ref/8.0.10/microsoft.aspnetcore.app.ref.8.0.10.nupkg.sha512"
+  ],
+  "logs": []
+}
